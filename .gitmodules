@@ -1,0 +1,3 @@
+[submodule "submodule/GitSubmoduleHundson_projectS"]
+	path = submodule/GitSubmoduleHundson_projectS
+	url = https://github.com/nagaoka-aya/GitSubmoduleHundson_projectS.git
